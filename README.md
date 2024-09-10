@@ -98,6 +98,8 @@ Methods|Usage
 
 ## Citation
 If you find our work helpful to your research. Please consider citing our paper.
+
+'''
 @article{CHENG2024100098,
 title = {Random bridge generator as a platform for developing computer vision-based structural inspection algorithms},
 journal = {Journal of Infrastructure Intelligence and Resilience},
@@ -108,8 +110,6 @@ year = {2024},
 issn = {2772-9915},
 doi = {https://doi.org/10.1016/j.iintel.2024.100098},
 url = {https://www.sciencedirect.com/science/article/pii/S2772991524000173},
-author = {Haojia Cheng and Wenhao Chai and Jiabao Hu and Wenhao Ruan and Mingyu Shi and Hyunjun Kim and Yifan Cao and Yasutaka Narazaki},
-keywords = {Bridge inspection, Synthetic environment, Computer graphics, Deep learning, Visual recognition},
-abstract = {Recent advances in computer vision algorithms have transformed the bridge visual inspection process. Those algorithms typically require large amounts of annotated data, which is lacking for generic bridge inspection scenarios. To address this challenge efficiently, this research designs, develops, and demonstrates a platform that can provide synthetic datasets and testing environments, termed Random Bridge Generator (RBG). The RBG produces photo-realistic 3D synthetic environments of six types of bridges randomly, automatically, and procedurally. Following relevant standards and design practice, the RBG creates random cross-sectional shapes, converts those shapes into bridge components, and assembles the components into bridges. The effectiveness of the RBG is demonstrated by producing a dataset (RBG Dataset) containing 10,753 images with pixel-wise annotations, rendered in 250 different synthetic environments. Significant diversity of the photo-realistic bridge inspection environments has been achieved, while all structural components strictly conform to the definitions derived from structural engineering documents. The use of the RBG dataset has been demonstrated by training a deep semantic segmentation algorithm with 101 convolutional layers, showing successful segmentation results for both major and minor structural components. The developed RBG is expected to enhance the level of automation in bridge visual inspection process. The Python code for RBG is made public at: https://github.com/chenghaojia2323/Random-Bridge-Generator.git.}
-}
+author = {Haojia Cheng and Wenhao Chai and Jiabao Hu and Wenhao Ruan and Mingyu Shi and Hyunjun Kim and Yifan Cao and Yasutaka Narazaki}
+'''
 
