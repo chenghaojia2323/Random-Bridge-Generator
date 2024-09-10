@@ -95,3 +95,6 @@ Methods|Usage
 ### Bridge
 
 ## [Tutorial](BridgeGenerator/tutorial.md)
+
+## Citation
+If you find our work helpful to your research. Please consider citing our paper.
