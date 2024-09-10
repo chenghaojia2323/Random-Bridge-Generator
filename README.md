@@ -99,7 +99,7 @@ Methods|Usage
 ## Citation
 If you find our work helpful to your research. Please consider citing our paper.
 
-'''python
+```
 @article{CHENG2024100098,
 title = {Random bridge generator as a platform for developing computer vision-based structural inspection algorithms},
 journal = {Journal of Infrastructure Intelligence and Resilience},
@@ -111,5 +111,5 @@ issn = {2772-9915},
 doi = {https://doi.org/10.1016/j.iintel.2024.100098},
 url = {https://www.sciencedirect.com/science/article/pii/S2772991524000173},
 author = {Haojia Cheng and Wenhao Chai and Jiabao Hu and Wenhao Ruan and Mingyu Shi and Hyunjun Kim and Yifan Cao and Yasutaka Narazaki}
-'''
+```
 
